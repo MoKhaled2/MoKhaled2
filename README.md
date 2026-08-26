@@ -119,10 +119,10 @@
 ---
 
 <!-- ======================================================== -->
-<!-- 🏆 FEATURED REPOSITORIES (Ultra-Reliable High-End Grid) -->
+<!-- 🏆 FEATURED PROJECTS & CASE STUDIES -->
 <!-- ======================================================== -->
 
-### 🚀 Featured Engineering Repositories
+### 🚀 Featured Engineering Projects & Case Studies
 
 <div align="center">
 
@@ -130,11 +130,10 @@
     <tr>
       <td width="50%" valign="top">
         <h3><a href="https://github.com/MoKhaled2/Advanced-to-START-UP-ANY-PROJECT-.NET">🚀 Advanced .NET Starter Kit</a></h3>
-        <p>Enterprise boilerplate for rapid backend development with Clean Architecture, CQRS, MediatR, JWT & RBAC.</p>
+        <p>Production boilerplate for rapid enterprise development with Clean Architecture, CQRS, MediatR, JWT & RBAC.</p>
         <p>
+          <img src="https://img.shields.io/badge/Status-Public_Open_Source-10B981?style=flat-square" alt="Open Source" />
           <img src="https://img.shields.io/badge/.NET_8%2F9-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET" />
-          <img src="https://img.shields.io/badge/Clean_Architecture-059669?style=flat-square" alt="Clean Arch" />
-          <img src="https://img.shields.io/badge/CQRS_MediatR-9333EA?style=flat-square" alt="CQRS" />
         </p>
         <p>
           <a href="https://github.com/MoKhaled2/Advanced-to-START-UP-ANY-PROJECT-.NET">
@@ -146,43 +145,33 @@
         </p>
       </td>
       <td width="50%" valign="top">
-        <h3><a href="https://github.com/MoKhaled2/AlBidaaERP">🏢 AlBidaa ERP Platform</a></h3>
+        <h3>🏢 AlBidaa ERP Platform</h3>
         <p>Enterprise Resource Planning solution managing commercial operations, automated invoicing, and role-based permissions.</p>
         <p>
+          <img src="https://img.shields.io/badge/Access-🔒_Private_Enterprise-6B7280?style=flat-square" alt="Private" />
           <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=.net&logoColor=white" alt="ASP.NET" />
           <img src="https://img.shields.io/badge/SQL_Server-CC292B?style=flat-square&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
-          <img src="https://img.shields.io/badge/Identity_RBAC-16A34A?style=flat-square" alt="RBAC" />
         </p>
         <p>
-          <a href="https://github.com/MoKhaled2/AlBidaaERP">
-            <img src="https://img.shields.io/github/stars/MoKhaled2/AlBidaaERP?style=social" alt="Stars" />
-          </a>
-          <a href="https://github.com/MoKhaled2/AlBidaaERP/fork">
-            <img src="https://img.shields.io/github/forks/MoKhaled2/AlBidaaERP?style=social" alt="Forks" />
-          </a>
+          <img src="https://img.shields.io/badge/Architecture-Clean_Architecture_%2B_RBAC-38BDF8?style=flat-square" alt="Arch" />
         </p>
       </td>
     </tr>
     <tr>
       <td width="50%" valign="top">
-        <h3><a href="https://github.com/MoKhaled2/e-commerce-brand">🛍️ E-Commerce Brand Platform</a></h3>
-        <p>High-throughput full-stack e-commerce system with Redis basket caching, checkout workflows, and responsive UI.</p>
+        <h3>🛍️ E-Commerce Brand Platform</h3>
+        <p>High-throughput full-stack e-commerce system with Redis basket caching, checkout workflows, and responsive React UI.</p>
         <p>
+          <img src="https://img.shields.io/badge/Access-🔒_Private_Client_Project-6B7280?style=flat-square" alt="Private" />
           <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-          <img src="https://img.shields.io/badge/.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET" />
           <img src="https://img.shields.io/badge/Redis_Cache-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
         </p>
         <p>
-          <a href="https://github.com/MoKhaled2/e-commerce-brand">
-            <img src="https://img.shields.io/github/stars/MoKhaled2/e-commerce-brand?style=social" alt="Stars" />
-          </a>
-          <a href="https://github.com/MoKhaled2/e-commerce-brand/fork">
-            <img src="https://img.shields.io/github/forks/MoKhaled2/e-commerce-brand?style=social" alt="Forks" />
-          </a>
+          <img src="https://img.shields.io/badge/Stack-React_%2B_.NET_Core-818cf8?style=flat-square" alt="Full Stack" />
         </p>
       </td>
       <td width="50%" valign="top">
-        <h3><a href="https://github.com/MoKhaled2">📡 Real-Time Streaming & Systems</a></h3>
+        <h3>📡 Real-Time Streaming & SignalR Hubs</h3>
         <p>Low-latency WebSocket messaging, live stream orchestration, and background worker pipelines.</p>
         <p>
           <img src="https://img.shields.io/badge/SignalR-0284C7?style=flat-square&logo=dotnet&logoColor=white" alt="SignalR" />
@@ -190,8 +179,8 @@
           <img src="https://img.shields.io/badge/Async_Workers-F59E0B?style=flat-square" alt="Workers" />
         </p>
         <p>
-          <a href="https://github.com/MoKhaled2">
-            <img src="https://img.shields.io/badge/Explore-More_Projects-38BDF8?style=flat-square&logo=github" alt="Explore" />
+          <a href="https://mohammedkhaled21.vercel.app/">
+            <img src="https://img.shields.io/badge/Explore-Live_Portfolio-10B981?style=flat-square&logo=vercel" alt="Portfolio" />
           </a>
         </p>
       </td>
