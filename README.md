@@ -6,11 +6,11 @@
 </div>
 
 <!-- ======================================================== -->
-<!-- ⚡ DYNAMIC TYPING SUBHEADER -->
+<!-- ⚡ DYNAMIC TYPING SUBHEADER (Non-overlapping single-line) -->
 <!-- ======================================================== -->
 <div align="center">
   <a href="https://mohammedkhaled21.vercel.app/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&multiline=true&width=750&height=70&lines=%E2%9A%A1+Architecting+High-Performance+.NET+Backends;%E2%9A%A1+Crafting+Modern+and+Fluid+React.js+Interfaces;%E2%9A%A1+Clean+Architecture+%7C+CQRS+%7C+Real-Time+WebSockets;%E2%9A%A1+Leading+Agile+Engineering+Teams+%40+Code+of+Arabs" alt="Typing Subtitle" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=650&height=45&lines=%E2%9A%A1+Full+Stack+.NET+%26+React.js+Developer;%E2%9A%A1+Clean+Architecture+%7C+CQRS+%7C+High-Performance+APIs;%E2%9A%A1+Project+Manager+%40+Code+of+Arabs;%E2%9A%A1+Computer+Engineering+%40+Tanta+University" alt="Typing Subtitle" />
   </a>
 </div>
 
@@ -50,10 +50,10 @@
 <!-- 💻 INTERACTIVE TERMINAL WINDOW / ABOUT ME -->
 <!-- ======================================================== -->
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="30" height="30" /> Terminal // `whoami`
+### 💻 Terminal // `whoami`
 
 ```zsh
-┌──(mohammed㉿khaled)-[~/developer/profile]
+┌──(mohammed@khaled)-[~/developer/profile]
 └─$ neofetch --engineer
 
    ███╗   ███╗██╗  ██╗       OS: Arch Linux x86_64 / Windows 11 Pro
@@ -75,7 +75,7 @@
 <!-- 🛠️ TECH STACK (Modern Aesthetic Icon Grid) -->
 <!-- ======================================================== -->
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Arsenal" width="30" height="30" /> Tech Arsenal & Capabilities
+### 🛠️ Tech Arsenal & Capabilities
 
 <div align="center">
 
@@ -119,36 +119,81 @@
 ---
 
 <!-- ======================================================== -->
-<!-- 🏆 FEATURED REPOSITORIES (Live Interactive Cards) -->
+<!-- 🏆 FEATURED REPOSITORIES (Ultra-Reliable High-End Grid) -->
 <!-- ======================================================== -->
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Projects" width="30" height="30" /> Featured Engineering Repositories
+### 🚀 Featured Engineering Repositories
 
 <div align="center">
 
-  <table border="0">
+  <table>
     <tr>
-      <td width="50%">
-        <a href="https://github.com/MoKhaled2/Advanced-to-START-UP-ANY-PROJECT-.NET">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=MoKhaled2&repo=Advanced-to-START-UP-ANY-PROJECT-.NET&theme=tokyonight&border_radius=10&bg_color=0a0f1d&title_color=38bdf8&icon_color=818cf8&text_color=94a3b8" width="100%" alt="StartUpAnyProject" />
-        </a>
+      <td width="50%" valign="top">
+        <h3><a href="https://github.com/MoKhaled2/Advanced-to-START-UP-ANY-PROJECT-.NET">🚀 Advanced .NET Starter Kit</a></h3>
+        <p>Enterprise boilerplate for rapid backend development with Clean Architecture, CQRS, MediatR, JWT & RBAC.</p>
+        <p>
+          <img src="https://img.shields.io/badge/.NET_8%2F9-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET" />
+          <img src="https://img.shields.io/badge/Clean_Architecture-059669?style=flat-square" alt="Clean Arch" />
+          <img src="https://img.shields.io/badge/CQRS_MediatR-9333EA?style=flat-square" alt="CQRS" />
+        </p>
+        <p>
+          <a href="https://github.com/MoKhaled2/Advanced-to-START-UP-ANY-PROJECT-.NET">
+            <img src="https://img.shields.io/github/stars/MoKhaled2/Advanced-to-START-UP-ANY-PROJECT-.NET?style=social" alt="Stars" />
+          </a>
+          <a href="https://github.com/MoKhaled2/Advanced-to-START-UP-ANY-PROJECT-.NET/fork">
+            <img src="https://img.shields.io/github/forks/MoKhaled2/Advanced-to-START-UP-ANY-PROJECT-.NET?style=social" alt="Forks" />
+          </a>
+        </p>
       </td>
-      <td width="50%">
-        <a href="https://github.com/MoKhaled2/AlBidaaERP">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=MoKhaled2&repo=AlBidaaERP&theme=tokyonight&border_radius=10&bg_color=0a0f1d&title_color=38bdf8&icon_color=818cf8&text_color=94a3b8" width="100%" alt="AlBidaaERP" />
-        </a>
+      <td width="50%" valign="top">
+        <h3><a href="https://github.com/MoKhaled2/AlBidaaERP">🏢 AlBidaa ERP Platform</a></h3>
+        <p>Enterprise Resource Planning solution managing commercial operations, automated invoicing, and role-based permissions.</p>
+        <p>
+          <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=.net&logoColor=white" alt="ASP.NET" />
+          <img src="https://img.shields.io/badge/SQL_Server-CC292B?style=flat-square&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
+          <img src="https://img.shields.io/badge/Identity_RBAC-16A34A?style=flat-square" alt="RBAC" />
+        </p>
+        <p>
+          <a href="https://github.com/MoKhaled2/AlBidaaERP">
+            <img src="https://img.shields.io/github/stars/MoKhaled2/AlBidaaERP?style=social" alt="Stars" />
+          </a>
+          <a href="https://github.com/MoKhaled2/AlBidaaERP/fork">
+            <img src="https://img.shields.io/github/forks/MoKhaled2/AlBidaaERP?style=social" alt="Forks" />
+          </a>
+        </p>
       </td>
     </tr>
     <tr>
-      <td width="50%">
-        <a href="https://github.com/MoKhaled2/e-commerce-brand">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=MoKhaled2&repo=e-commerce-brand&theme=tokyonight&border_radius=10&bg_color=0a0f1d&title_color=38bdf8&icon_color=818cf8&text_color=94a3b8" width="100%" alt="E-Commerce" />
-        </a>
+      <td width="50%" valign="top">
+        <h3><a href="https://github.com/MoKhaled2/e-commerce-brand">🛍️ E-Commerce Brand Platform</a></h3>
+        <p>High-throughput full-stack e-commerce system with Redis basket caching, checkout workflows, and responsive UI.</p>
+        <p>
+          <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+          <img src="https://img.shields.io/badge/.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET" />
+          <img src="https://img.shields.io/badge/Redis_Cache-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
+        </p>
+        <p>
+          <a href="https://github.com/MoKhaled2/e-commerce-brand">
+            <img src="https://img.shields.io/github/stars/MoKhaled2/e-commerce-brand?style=social" alt="Stars" />
+          </a>
+          <a href="https://github.com/MoKhaled2/e-commerce-brand/fork">
+            <img src="https://img.shields.io/github/forks/MoKhaled2/e-commerce-brand?style=social" alt="Forks" />
+          </a>
+        </p>
       </td>
-      <td width="50%">
-        <a href="https://github.com/MoKhaled2">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=MoKhaled2&repo=MoKhaled2&theme=tokyonight&border_radius=10&bg_color=0a0f1d&title_color=38bdf8&icon_color=818cf8&text_color=94a3b8" width="100%" alt="Profile README" />
-        </a>
+      <td width="50%" valign="top">
+        <h3><a href="https://github.com/MoKhaled2">📡 Real-Time Streaming & Systems</a></h3>
+        <p>Low-latency WebSocket messaging, live stream orchestration, and background worker pipelines.</p>
+        <p>
+          <img src="https://img.shields.io/badge/SignalR-0284C7?style=flat-square&logo=dotnet&logoColor=white" alt="SignalR" />
+          <img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white" alt="WebSockets" />
+          <img src="https://img.shields.io/badge/Async_Workers-F59E0B?style=flat-square" alt="Workers" />
+        </p>
+        <p>
+          <a href="https://github.com/MoKhaled2">
+            <img src="https://img.shields.io/badge/Explore-More_Projects-38BDF8?style=flat-square&logo=github" alt="Explore" />
+          </a>
+        </p>
       </td>
     </tr>
   </table>
@@ -158,46 +203,30 @@
 ---
 
 <!-- ======================================================== -->
-<!-- 📊 LIVE GITHUB STATS & METRICS -->
+<!-- 📊 LIVE GITHUB ANALYTICS & METRICS -->
 <!-- ======================================================== -->
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Stats" width="30" height="30" /> GitHub Analytics & Productivity
+### 📊 GitHub Analytics & Productivity
 
 <div align="center">
   <table border="0">
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=MoKhaled2&show_icons=true&theme=tokyonight&hide_border=false&border_color=1e293b&border_radius=10&count_private=true&include_all_commits=true&title_color=38bdf8&icon_color=818cf8&text_color=94a3b8&bg_color=0a0f1d" alt="Mohammed's GitHub Stats" width="410" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MoKhaled2&theme=tokyonight" alt="GitHub Stats" width="410" />
       </td>
       <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=MoKhaled2&theme=tokyonight&hide_border=false&border_color=1e293b&border_radius=10&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8&background=0a0f1d" alt="GitHub Streak" width="410" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MoKhaled2&theme=tokyonight" alt="Repos per Language" width="410" />
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoKhaled2&layout=compact&theme=tokyonight&hide_border=false&border_color=1e293b&border_radius=10&title_color=38bdf8&text_color=94a3b8&bg_color=0a0f1d" alt="Top Languages" width="450" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MoKhaled2&theme=tokyonight" alt="Profile Details" width="830" />
       </td>
     </tr>
   </table>
 </div>
 
 ---
-
-<!-- ======================================================== -->
-<!-- 🐍 CONTRIBUTION SNAKE GRAPH -->
-<!-- ======================================================== -->
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" alt="Snake" width="30" height="30" /> Contribution Activity
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MoKhaled2/MoKhaled2/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MoKhaled2/MoKhaled2/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MoKhaled2/MoKhaled2/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
-<br/>
 
 <!-- ======================================================== -->
 <!-- 🤝 FOOTER WAVE & CONNECT -->
