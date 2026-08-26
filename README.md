@@ -2,7 +2,7 @@
 <!-- 🚀 TOP HERO BANNER (Dynamic Glowing Animated Wave) -->
 <!-- ======================================================== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_bg=0:0a0f1d,50:0c162d,100:030712&custom_color=0:38bdf8,50:818cf8,100:c084fc&height=220&section=header&text=MOHAMMED%20KHALED&fontSize=52&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=Full%20Stack%20.NET%20%26%20React.js%20Engineer%20%E2%80%A2%20Project%20Manager%20%40%20Code%20of%20Arabs&descAlignY=62&descSize=18&descAlign=50" width="100%" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_bg=0:0a0f1d,50:0c162d,100:030712&custom_color=0:38bdf8,50:818cf8,100:c084fc&height=220&section=header&text=MOHAMMED%20KHALED&fontSize=50&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=Full%20Stack%20.NET%20and%20React.js%20Engineer%20%7C%20Project%20Manager%20%40%20Code%20of%20Arabs&descAlignY=62&descSize=17&descAlign=50" width="100%" alt="Mohammed Khaled Header" />
 </div>
 
 <!-- ======================================================== -->
@@ -10,7 +10,7 @@
 <!-- ======================================================== -->
 <div align="center">
   <a href="https://mohammedkhaled21.vercel.app/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&multiline=true&width=750&height=70&lines=%E2%9A%A1+Architecting+High-Performance+.NET+Backends;%E2%9A%A1+Crafting+Modern+%26+Fluid+React.js+Interfaces;%E2%9A%A1+Clean+Architecture+%7C+CQRS+%7C+Real-Time+WebSockets;%E2%9A%A1+Leading+Agile+Engineering+Teams+%40+Code+of+Arabs" alt="Typing Subtitle" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&multiline=true&width=750&height=70&lines=%E2%9A%A1+Architecting+High-Performance+.NET+Backends;%E2%9A%A1+Crafting+Modern+and+Fluid+React.js+Interfaces;%E2%9A%A1+Clean+Architecture+%7C+CQRS+%7C+Real-Time+WebSockets;%E2%9A%A1+Leading+Agile+Engineering+Teams+%40+Code+of+Arabs" alt="Typing Subtitle" />
   </a>
 </div>
 
